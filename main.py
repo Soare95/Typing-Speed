@@ -1,4 +1,4 @@
-import tim
+import time
 from tkinter import *
 import random
 
